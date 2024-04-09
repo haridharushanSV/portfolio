@@ -1,4 +1,4 @@
 # portfolio
 Language used:
-HTML
-Botstrap
+HTML,
+Bootstrap
